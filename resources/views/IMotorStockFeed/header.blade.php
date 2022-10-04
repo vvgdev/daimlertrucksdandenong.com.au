@@ -22,7 +22,7 @@
             <div class="mobile-nav clearfix">
                 <a id="mobile-nav-btn" type="button" class="mobile-menu"><span class="d-block">Menu</span> </a>
                 <a href="{{env('IMOTOR_URL')}}" class="daimler-logo">
-                    <img class="company-logo" src="{{env('IMOTOR_URL')}}/images/daimlertrucks_somerton_logo.jpeg"/>
+                    <img class="company-logo" src="{{env('IMOTOR_URL')}}/images/daimlertrucks_dandenong_logo.png"/>
                 </a>
                 <div class="drop-menu">
                     <div class="panel">
@@ -101,7 +101,7 @@
             <div class="row desktop-nav">
                 <div class="col-md-4 text-center text-md-left">
                     <a href="{{env('IMOTOR_URL')}}">
-                        <img class="company-logo" src="{{env('IMOTOR_URL')}}/images/daimlertrucks_somerton_logo.jpeg"/>
+                        <img class="company-logo" src="{{env('IMOTOR_URL')}}/images/daimlertrucks_dandenong_logo.png"/>
                     </a>
                 </div>  
                 <div class="col-md-8">

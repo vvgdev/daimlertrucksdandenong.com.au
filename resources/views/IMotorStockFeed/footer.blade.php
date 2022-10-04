@@ -55,7 +55,7 @@
                                             <a href="{{env('IMOTOR_URL')}}/finance" title="Finance">Finance</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.velocitytruckcentres.com.au/privacy-policy" target="_blank" title="Daimler Trucks Somerton Privacy policy">Privacy Policy</a>
+                                            <a href="https://www.velocitytruckcentres.com.au/privacy-policy" target="_blank" title="Daimler Trucks Dandenong Privacy policy">Privacy Policy</a>
                                         </li>
                                         <li>
                                             <a href="https://www.velocitytruckcentres.com.au/privacy-policy" target="_blank">Terms &amp; Conditions</a>
@@ -125,10 +125,9 @@
                         </div>
                         <div class="col-md-12 col-lg-4">
                             <div class="footer-icon-wrapper">
-                                <a href="https://www.facebook.com/daimlertruckssomerton/" target="_blank" data-ga-social="facebook" class="social-link d-inline-block"><span class="facebook-icon last"></span></a>
-                                <a href="https://www.youtube.com/channel/UCk341h4frB9JtySySl0e9nw" target="_blank" data-ga-social="youtube" class="social-link d-inline-block"><span class="youtube-icon last"></span></a>
-                                <a href="https://www.linkedin.com/company/daimler-trucks-somerton/" target="_blank" data-ga-social="linkedin" class="social-link d-inline-block"><span class="linkedin-icon last"></span></a>
-                                <a href="https://www.instagram.com/daimlertruckssomerton/" target="_blank" data-ga-social="instagram" class="social-link d-inline-block"><span class="instagram-icon last"></span></a>
+                                <a href="https://www.facebook.com/whitehorse.truckcentre/" target="_blank" data-ga-social="facebook" class="social-link d-inline-block"><span class="facebook-icon last"></span></a>
+                                <a href="https://www.linkedin.com/company/whitehorse-trucks-pty-ltd/" target="_blank" data-ga-social="linkedin" class="social-link d-inline-block"><span class="linkedin-icon last"></span></a>
+                                <a href="https://www.instagram.com/whitehorsetruckcentre/" target="_blank" data-ga-social="instagram" class="social-link d-inline-block"><span class="instagram-icon last"></span></a>
                             </div>
                             <p class="emergency-contact clear-both">24/7 Emergency Roadside Assistance: <br> Trucks: <a href="tel:1800 033 557">1800 033 557</a><br>
                             <a class="company-contact" href="tel:(03) 9305 4152"><i class="fa fa-phone"></i>(03) 9305 4152</a>

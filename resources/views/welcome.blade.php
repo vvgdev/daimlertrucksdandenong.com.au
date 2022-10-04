@@ -100,22 +100,37 @@
     </div>
     <div class="welcome-text">
         <p>
-            <b>Welcome to Daimler Trucks Somerton</b>
+            <b>Welcome to Daimler Trucks Dandenong</b>
         </p>
         <p>
-            Proudly part of Velocity Truck Centres, <b>Daimler Trucks Somerton</b> offers an unrivalled range of new Mercedes-Benz Trucks, Freightliner Trucks and Fuso Trucks and Buses. Our extensive range ensures we deliver commercial vehicle options for all applications from Light Commercial Vehicles to Heavy Commercial Vehicles and everything in between.
+            Thank you for visiting our online dealership. Located in Dandenong South, VIC we are your #1 choice for Mercedes Benz, Freightliner & Fuso Trucks and quality pre-owned vehicles.
         </p>
         <p>
-            Daimler Trucks Somerton is located just a short drive from the city's CBD in one of Melbourne's key transport hubs.
+            We have been serving Melbourne and the surrounding area for many years. Our website contains up-to-date information on the popular range of vehicles available at all of our dealerships.
         </p>
         <p>
-            Our focus is to give customers a complete solution for their commercial and personal transport needs. In addition, we provide competitive finance options and full workshop services, accredited with not just our own brands, but also supporting Detroit, Cummins and Eaton with our factory trained technicians using only genuine spare parts.
+            As a dealer with many years experience, <b>Daimler Trucks Dandenong</b> strives to provide you with the latest and greatest vehicles, which are designed to thrill, provide safety and comfort and can help meet the demands of daily life.
         </p>
         <p>
-            At Daimler Trucks Somerton, we provide full parts back up for all brands along with Alliance fluid solutions and an All Makes range including trailer parts. Our workshop also offers on-site servicing as well as providing a 24-hour emergency breakdown assistance service. We are committed to making it easier for you to do business and strive to support you with consistent service and support across all of our factory owned dealerships.
+            Explore our extensive showroom to see the exciting range of Mercedes Benz, Freightliner & Fuso Trucks, including the latest models. Check out our current New, Demonstrator and Used trucks and latest local special offers.
         </p>
         <p>
-            Please browse our website and contact us via phone on <b><a href="tel:{{$siteData->primary_number}}">{{$siteData->primary_number}}</a></b> or via our contact us form if we can assist you further.
+            If you require vehicle finance or vehicle fleet advice, contact our business manager to discuss what option is right for you.
+        </p>
+        <p>
+            Your safety and taking care of your investment is important. That's why we have made booking your next service quick and easy to do. Simply complete the online form on our Service page and we will contact you with a time available to drop your vehicle in.
+        </p>
+        <p>
+            We use only Genuine Parts - which are available to order from our comprehensive catalogue. Have something specific in mind? Simply complete our online form on our Spare Parts page and the team at Daimler Trucks Dandenong will get back to you as soon as possible.
+        </p>
+        <p>
+            No matter what you need, our team of experienced sales staff at Daimler Trucks Dandenong are here to help.
+        </p>
+        <p>
+            Why not book a test drive in the vehicle you have always wanted! You can do it all at your leisure, on our Mercedes Benz, Freightliner & Fuso websites, over the phone or here on Daimler Trucks Dandenong.
+        </p>
+        <p>
+        <b>After Hours Support Hotline - <a href="tel:{{$siteData->primary_number}}">{{$siteData->primary_number}}</a> - Available 24 hours</b>
         </p>
     </div>
     <div class="row no-gutter top-brands">

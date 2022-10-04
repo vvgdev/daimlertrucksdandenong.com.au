@@ -236,7 +236,7 @@
                                                 <input type="hidden" id="sortoption" name="" value="" />
                                             @endif
                                             <input type="hidden" id="switch_value" name="switch_value" value="false" />
-                                            <input type="hidden" id="site_slug" name="site_slug" value="{{env('APP_SLUG', 'daimler-trucks-somerton')}}" />
+                                            <input type="hidden" id="site_slug" name="site_slug" value="{{env('APP_SLUG', 'daimler-trucks-dandenong')}}" />
                                             <input type="submit" value="Search" class="btn btn-red-small"/>
                                         </div>
                                     </div>

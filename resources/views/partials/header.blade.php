@@ -4,7 +4,7 @@
             <a id="mobile-nav-btn" type="button" class="mobile-menu"><span class="d-block">Menu</span> </a>
             <a id="mobile-nav-btn" type="button" class="mobile-call pull-right" href="tel:{{$siteData->primary_number}}"><i class="fa fa-phone"></i> Call </a>
             <a href="/" class="daimler-logo">
-                <img class="company-logo" src="/images/daimlertrucks_somerton_logo.jpeg"/>
+                <img class="company-logo" src="/images/daimlertrucks_dandenong_logo.png"/>
             </a>
             <div class="drop-menu">
                 <div class="panel">
@@ -83,7 +83,7 @@
         <div class="row desktop-nav">
             <div class="col-md-4 text-center text-md-left">
                 <a href="/">
-                    <img class="company-logo" src="/images/daimlertrucks_somerton_logo.jpeg"/>
+                    <img class="company-logo" src="/images/daimlertrucks_dandenong_logo.png"/>
                 </a>
             </div>
             <div class="col-md-8">

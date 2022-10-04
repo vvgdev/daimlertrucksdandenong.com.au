@@ -14,13 +14,13 @@ class HomeController extends Controller
 
             $slider = [];
             $url=config('apiprovider.api.get_slider');
-            $param['site_name'] = env("APP_SLUG", 'daimler-trucks-somerton');
+            $param['site_name'] = env("APP_SLUG", 'daimler-trucks-dandenong');
             $slider=APIHelper::sendGuzzleRequest($url, 'get',$param);
             // dd($slider);
             $location = [];
             $url=config('apiprovider.api.get_inventory_location');
             $param['seller_identifier'] = env("SELLER_IDENTIFIER", '');
-            $param['slug'] = env("APP_SLUG", 'daimler-trucks-somerton');
+            $param['slug'] = env("APP_SLUG", 'daimler-trucks-dandenong');
             $locationData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             /* if($locationData) {
                 $locationData = $locationData->locations;
@@ -29,12 +29,12 @@ class HomeController extends Controller
             $url=config('apiprovider.api.get_make_data');
             $param=[];
             $param['seller_identifier'] = env("SELLER_IDENTIFIER", '');
-            //$param['availability'] = 'used-trucks';//env("APP_SLUG", 'daimler-trucks-somerton');
+            //$param['availability'] = 'used-trucks';//env("APP_SLUG", 'daimler-trucks-dandenong');
             $makeData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $special = [];
             $url=config('apiprovider.api.get_inventory');
             $param=[];
-            // $param['is_demo'] = "false";//env("APP_SLUG", 'daimler-trucks-somerton');
+            // $param['is_demo'] = "false";//env("APP_SLUG", 'daimler-trucks-dandenong');
             // $param['is_new'] = "false";
             $param['page_no'] = "1";
             $param['records_per_page'] = "5";
@@ -44,7 +44,7 @@ class HomeController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'somerton');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             //dd($siteData);
         } catch (ClientException $e) {
