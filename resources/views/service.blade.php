@@ -41,9 +41,23 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="benz_tab">
                                 <div class="content para">
-                                    <h3 class="mb-4">Mercedes-Benz Service North Melbourne | Truck Service North Melbourne VIC</h3>
+                                    <h3 class="mb-4">Mercedes-Benz Service Melbourne South | Truck Service Melbourne VIC</h3>
+                                    <h6 class="mb-3">After Hours Support Hotline - <a href="tel:1300 244 744">1300 244 744</a> - Available 24 hours</h6>
+                                    <h6>Additional Service & Parts Agents:</h6>
+                                    <div class="mb-4">
+                                        <div style="width:49%;display:inline-block">
+                                            <b>Latrobe Valley Truck Works</b><br/>
+                                            Address: 3 Stratton Drive, Traralgon Victoria 3844<br/>
+                                            Phone: 03 5174 0922
+                                        </div>
+                                        <div style="width:49%;display:inline-block;">
+                                            <b>Lakes Diesel Sales & Service</b><br/>
+                                            Address: 57 Whiters Street, Lakes Entrance Victoria 3909<br/>
+                                            Phone: 03 5155 2155
+                                        </div>
+                                    </div>
                                     <p>Choosing the best truck for the job is an excellent start, but it is just the beginning.</p>
-                                    <p>To get the best out of your truck and to keep it running how the Mercedes-Benz engineers intended, we recommend that you have it maintained and serviced at regular intervals at <strong>Daimler Trucks Somerton Mercedes-Benz</strong>.</p>
+                                    <p>To get the best out of your truck and to keep it running how the Mercedes-Benz engineers intended, we recommend that you have it maintained and serviced at regular intervals at <strong>Dandenong Mercedes-Benz Trucks.</strong></p>
                                     <p>Every workshop that carries the famous three-pointed star is staffed and equipped for excellence, with access to the latest specification and up-to-date information across the model range.</p>
                                     <p>Trained technicians are essential, and every Mercedes-Benz technician completes a set number of hours of training and retraining every year to ensure they are up-to-date with technology.</p>
                                     <p>Finally, the equipment and tooling required to maintain a Mercedes-Benz truck is designed and developed by the same people who design and develop the vehicle. The investment you make in your fleet, from one truck to a major fleet of different sizes and configurations, demands the attention and expertise only genuine Mercedes-Benz service can deliver.</p>
@@ -51,24 +65,40 @@
                                     
                                     <h3>Quick, easy and inexpensive repairs.</h3>
                                     <p>Making sure that your Mercedes-Benz truck, or your entire Mercedes-Benz truck fleet, remains in optimum operating condition is the key.</p>
-                                    <p>Whether you need a larger repair, like a new body panel or have a smaller problem that needs fixing like an annoying rattle, you can trust Daimler Trucks Somerton Mercedes-Benz to take care of it.</p>
+                                    <p>Whether you need a larger repair, like a new body panel or have a smaller problem that needs fixing like an annoying rattle, you can trust Dandenong Mercedes-Benz Trucks to take care of it.</p>
+                                    <p><b class="txt-uppercase">Enjoy the below amenities while we maintain your vehicle:</b></p>
+                                    <ul>
+                                        <li>Free Wifi</li>
+                                        <li>Vending Machine</li>
+                                        <li>Work Station desk including, phone &amp; charging ports</li>
+                                        <li>Coffee / Tea / Filtered Water Coolers</li>
+                                        <li>Microwaves</li>
+                                    </ul>
                                     <p>For further information, please contact our friendly Service team for assistance with any enquiry regarding your Mercedes-Benz Trucks vehicle.</p>
-                                    <p>The Daimler Trucks Somerton Mercedes-Benz team wishes you safe and pleasant motoring.</p>
+                                    <p>The Dandenong Mercedes-Benz Trucks team wishes you safe and pleasant motoring.</p>
                                 </div>          
                             </div>
                             <div class="tab-pane" id="freightliner_tab">
                                 <div class="content para">
-                                    <h3 class="mb-4">Freightliner Service North Melbourne | Truck Service Melbourne, VIC</h3>
-                                    <p>
-                                        At <strong>Daimler Trucks Somerton Freightliner</strong> cchoosing your truck is just the beginning. We’re there for the life of your vehicle.
-                                    </p>
-                                    <p>
-                                    Daimler Trucks Somerton Freightliner have a number of servicing and repair options and Service Contracts designed to help manage your maintenance costs with flexible and affordable options. Not only will you feel reassured that trained technicians are working on your truck, you can rest assured that they will use Freightliner Genuine Parts.
-                                    </p>
+                                    <h3 class="mb-4">Freightliner Service Melbourne South | Truck Service Melbourne, VIC</h3>
+                                    <h6 class="mb-3">After Hours Support Hotline - <a href="tel:1300 244 744">1300 244 744</a> - Available 24 hours</h6>
+                                    <h6>Additional Service & Parts Agents:</h6>
+                                    <div class="mb-4">
+                                        <div style="width:49%;display:inline-block">
+                                            <b>Latrobe Valley Truck Works</b><br/>
+                                            Address: 3 Stratton Drive, Traralgon Victoria 3844<br/>
+                                            Phone: 03 5174 0922
+                                        </div>
+                                        <div style="width:49%;display:inline-block;">
+                                            <b>Lakes Diesel Sales & Service</b><br/>
+                                            Address: 57 Whiters Street, Lakes Entrance Victoria 3909<br/>
+                                            Phone: 03 5155 2155
+                                        </div>
+                                    </div>
+                                    <p>At <strong>Dandenong Freightliner</strong> choosing your truck is just the beginning. We’re there for the life of your truck.</p>
+                                    <p>Dandenong Freightliner have a number of servicing and repair options and Service Contracts designed to help manage your maintenance costs with flexible and affordable options. Not only will you feel reassured that trained technicians are working on your truck, you can rest assured that they will use Freightliner Genuine Parts.</p>
                                     <h3 class="txt-uppercase">Genuine Freightliner Service</h3>
-                                    <p>
-                                    Having your truck serviced by an Authorised Freightliner Dealer will ensure that:
-                                    </p>
+                                    <p>Having your truck serviced by an Authorised Freightliner Dealer will ensure that:</p>
                                     <ul>
                                         <li>Your truck will be serviced correctly</li>
                                         <li>Service measures identified by the factory will be undertaken to ensure that your vehicle receives all the necessary upgrades - free of charge</li>
@@ -77,51 +107,56 @@
                                         <li>Work will only be undertaken by accredited Freightliner Technicians. They know the vehicles they work on. They will only replace and repair that which is necessary and which you agree to, reducing your potential costs and ensuring trouble-free motoring</li>
                                     </ul>
                                     <h3 class="txt-uppercase">Freightliner Service Plans.</h3>
-                                    <p>
-                                        <strong>WHAT ARE FREIGHTLINER SERVICE PLANS?</strong>
-                                    </p>
-                                    <p>
-                                    Whether you operate one truck or a large fleet, planning your operating costs is imperative. Freightliner Service Plans is a maintenance and repair program designed to increase vehicle utilisation and protect your vehicle and your business from unexpected operating costs. Through Freightliner Service Plans, the Freightliner dealer network carries out maintenance and repairs according to an agreed schedule and pre-determined costs. Freightliner Service Plans rates are calculated and agreed by using criteria and information supplied by you, such as vehicle application, anticipated annual kilometres, operating hours, loads and working conditions. This means you can work out a budget with monthly payments and be confident that your agreed maintenance and repair costs are covered.
-                                    </p>
-                                    <p>
-                                        <strong class="txt-uppercase">WHAT IS EXPRESS ASSESSMENT?</strong>
-                                    </p>
-                                    <p>
-                                    Express Assessment is a commitment to provide a preliminary diagnosis and communication to the customer within two hours of a truck arriving at the dealership. Express Assessment is a process, not a program. It is intended to become part of the way a service department performs its day-to-day work.
-                                    </p>
-                                    <p>
-                                        <strong>We commit to:</strong>
-                                    </p>
+                                    <p><strong>WHAT ARE FREIGHTLINER SERVICE PLANS?</strong></p>
+                                    <p>Whether you operate one truck or a large fleet, planning your operating costs is imperative. Freightliner Service Plans is a maintenance and repair program designed to increase vehicle utilisation and protect your vehicle and your business from unexpected operating costs. Through Freightliner Service Plans, the Freightliner dealer network carries out maintenance and repairs according to an agreed schedule and pre-determined costs. Freightliner Service Plans rates are calculated and agreed by using criteria and information supplied by you, such as vehicle application, anticipated annual kilometres, operating hours, loads and working conditions. This means you can work out a budget with monthly payments and be confident that your agreed maintenance and repair costs are covered.</p>
+                                    <p><b class="txt-uppercase">What Is Express Assessment?</b></p>
+                                    <p>Express Assessment is a commitment to provide a preliminary diagnosis and communication to the customer within two hours of a truck arriving at the dealership. Express Assessment is a process, not a program. It is intended to become part of the way a service department performs its day-to-day work.</p>
+                                    <p><strong>We commit to:</strong></p>
                                     <ul>
                                         <li>Communicate a preliminary diagnosis</li>
                                         <li>Check part availability</li>
                                         <li>Provide an estimate of cost and repair time</li>
                                     </ul>
-                                    <p>
-                                    For further information, please contact our friendly Service team for assistance with any enquiry regarding your Freightliner vehicle.
-                                    </p>
-                                    <p>
-                                    The Daimler Trucks Somerton Freightliner team wishes you safe and pleasant motoring 
-                                    </p>
-                                    
+                                    <p><b class="txt-uppercase">Enjoy the below amenities while we maintain your vehicle:</b></p>
+                                    <ul>
+                                        <li>Free Wifi</li>
+                                        <li>Vending Machine</li>
+                                        <li>Work Station desk including, phone &amp; charging ports</li>
+                                        <li>Coffee / Tea / Filtered Water Coolers</li>
+                                        <li>Microwaves</li>
+                                    </ul>
+                                    <p>For further information, please contact our friendly Service team for assistance with any enquiry regarding your Freightliner vehicle.</p>
+                                    <p>The Dandenong Freightliner team wishes you safe and pleasant motoring.</p>
+                                
                                 </div>
                             </div>
                             <div class="tab-pane" id="fuso_tab">
                                 <div class="content para">
-                                    <h3 class="mb-4">Fuso Service North Melbourne | Truck Service North Melbourne VIC</h3>
-                                    <p>
-                                        At <strong>Daimler Trucks Somerton Fuso</strong> choosing your truck or bus is just the beginning. We’re there for the life of your vehicle.
-                                    </p>
-                                    <p>
-                                    Daimler Trucks Somerton Fuso has a wide range of support services designed to make maintaining and repairing your vehicle as easy as possible. With expert support from our factory trained technicians, you can be confident knowing you’ve always got a great Service team behind you.
-                                    </p>
-                                    <p>
-                                    Best of all, at Daimler Trucks Somerton Fuso our service solutions are specifically tailored to minimise downtime. From our 24-hour roadside assistance hotline, to overnight servicing at our dealerships, we do what it takes to keep you on the road.
-                                    </p>
-                                    <p>
-                                    For further information, please contact our friendly Service team for assistance with any enquiry regarding your Fuso vehicle.
-                                    </p>
-                                    <p>The Daimler Trucks Somerton Fuso team wishes you safe and pleasant motoring.</p>
+                                    <h3 class="mb-4">Fuso Service Melbourne South | Truck Service Melbourne VIC</h3>
+                                    <h6>Additional Service & Parts Agents:</h6>
+                                    <div class="mb-4">
+                                        <div style="width:49%;display:inline-block">
+                                            <b>Latrobe Valley Truck Works</b><br/>
+                                            Address: 3 Stratton Drive, Traralgon Victoria 3844<br/>
+                                            Phone: 03 5174 0922
+                                        </div>
+                                        <div style="width:49%;display:inline-block;">
+                                            <b>Lakes Diesel Sales & Service</b><br/>
+                                            Address: 57 Whiters Street, Lakes Entrance Victoria 3909<br/>
+                                            Phone: 03 5155 2155
+                                        </div>
+                                    </div>
+                                    <p>At <strong>Dandenong&nbsp;</strong><strong>Fuso&nbsp;</strong>choosing your truck or bus is just the beginning. We’re there for the life of your vehicle.</p>
+                                    <p>Dandenong Fuso has a wide range of support services designed to make maintaining and repairing your vehicle as easy as possible. With expert support from our factory trained technicians, you can be confident knowing you’ve always got a great Service team behind you.</p>
+                                    <p>Best of all, at Dandenong Fuso our service solutions are specifically tailored to minimise downtime. From our 24-hour roadside assistance hotline, to overnight servicing at our dealerships, we do what it takes to keep you on the road.</p>
+                                    <p><b class="txt-uppercase">Enjoy the below amenities while we maintain your vehicle:</b></p>
+                                    <ul>
+                                        <li>Free Wifi</li>
+                                        <li>Vending Machine</li>
+                                        <li>Work Station desk including, phone &amp; charging ports</li>
+                                        <li>Coffee / Tea / Filtered Water Coolers</li>
+                                        <li>Microwaves</li>
+                                    </ul>
                                     <table>
                                         <thead>
                                             <tr>
@@ -135,7 +170,7 @@
                                         <tbody>
                                             <tr>
                                                 <td style="width: 40%;padding: 10px;border-bottom: 1px solid #eee;font-size:12px">
-                                                    <strong>BEST BASIC</strong><br>IIncludes all scheduled servicing work for your vehicle as specified in the Fuso maintenance booklet, carried out to Fuso quality standards. Total flexibility allows you to select a time/kilometre structure that best suits your needs.
+                                                    <strong>BEST BASIC</strong><br>Includes all scheduled servicing work for your vehicle as specified in the Fuso maintenance booklet, carried out to Fuso quality standards. Total flexibility allows you to select a time/kilometre structure that best suits your needs.
                                                 </td>
                                                 <td style="border-bottom: 1px solid #eee; color:green;">
                                                     <div>Yes</div>
@@ -165,22 +200,14 @@
                                     <p>
                                         <a class="btn btn-red-small mt-0" href="{{ asset('pdf/fuso-serviceplans-brochure.pdf') }}" target="_blank">Click here to view Service Plans</a>
                                     </p>
-                                    
+                                    <p>For further information, please contact our friendly Service team for assistance with any enquiry regarding your Fuso vehicle.</p>
+                                    <p>After Hours Support Hotline - <a href="tel:1300244744">1300 244 744</a> - Available 24 hours</p>
+                                    <p>The Dandenong Fuso team wishes you safe and pleasant motoring.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <p>
-                    <strong>Enjoy the below amenities while we maintain your vehicle:</strong>
-                    <ul>
-                        <li>Free Wi-Fi</li>
-                        <li>Vending Machine</li>
-                        <li>Work Station desk including, phone & charging ports</li>
-                        <li>Coffee / Tea / Filtered Water Coolers</li>
-                        <li>Microwaves</li>
-                    </ul>
-                </p>
                 <hr>
                 <div class="truck-location">
                     @include('partials.location_details')            

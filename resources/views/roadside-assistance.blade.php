@@ -50,13 +50,17 @@
                             <img class="mb-4" src="/images/fuso-service.jpeg"/>
                             <h2 class="mt-5 pt-3 mb-5">Elite Support</h2>
                             <img src="/images/elite-support.jpeg" class="mb-5"/>
-                            <b>WE ARE AN ELITE SUPPORT CERTIFIED DEALERSHIP!</b>
-                            <p>On behalf of all the team at Daimler Trucks Somerton, we are thrilled to announce our Elite Support Certification!</p>
-                            <p>What is Elite Support you ask? Elite Support is a joint initiative by Daimler Truck and Bus and the Daimler Truck dealer network that will deliver a new level of service for customers of Mercedes-Benz, Freightliner and Fuso in Australia. The aim of Elite Support is to maximise vehicle uptime with rapid diagnosis though Express Assessment, consistent communication and robust parts availability, as well as a premium in-dealership experience. In order to achieve Elite Support certification, Daimler Truck dealerships must satisfy more than 126 criteria, providing specific standards in a variety of areas.</p>
-                            <p>“Our continued goal is to deliver better value and faster turnarounds with unmatched aftersales support. This can only be possible through continuous improvement and a commitment to improving the experience for our customers.”</p>
-                            <p>As only the second dealership in Australia and first of the major metro dealers in the network to have achieved certification, we are well on our way to delivering a point of difference to our customers and ultimately leading the industry to new benchmarks.</p>
-                            <p>Congratulations again to everyone here at Daimler Trucks Somerton on this achievement.</p>
-                            <p>So come on down and see for yourself! We can’t wait for our customers to experience the Elite Support difference!</p>
+                            <div style="text-align: justify;">
+                                <p><br></p>
+                                <p><strong>Daimler Trucks Dandenong</strong> received <strong>Daimler Elite Support Certification in 2020</strong>. They were the 10th Dealership in Australia to achieve this certification.</p>
+                                <p>Elite Support is a joint initiative by Daimler Truck and Bus and the dealership network that is aimed at delivering a new level of service for customers of Mercedes - Benz, Freightliner and Fuso in Australia. It's built around the idea that professional operators work hard, and their service network should too.&nbsp;</p>
+                                <p>Tired of being just another number in line instead of a valued customer? We ensure that as an Elite Dealer we are focused on what truly matters - your truck and your business. That means we don't do things the easy way, we do them the right way - every time.</p>
+                                <p>Elite Support certification is available to Daimler Truck and Bus dealerships after demonstrating a commitment to a customer focused way of doing business and a continuous improvement culture within the dealership. They demonstrate this by implementing and complying with Elite Support criteria.</p>
+                                <p>After participating in the inaugural Elite Support pilot boot camp in July 2016 the Dealership do an incredible job at implementing the criteria in order to maintain their Elite Support Certification.</p>
+                                <p>A Commitment to Continuous Improvement - Being the best requires an ongoing commitment to quality that is rooted in the culture of our Dealership. That's why we have a Continuous Improvement Coordinator (CIC) to ensure we regularly meet and exceed the certification requirements. The CIC collaborates with peers across the Elite Support network to stay up to date in the latest best practices and conducts regularly scheduled Continuous Improvement events in order to meet and improve the standards of customer satisfaction.</p>
+                                <p>Our customers benefit because they know that our Dealership is an Elite Support Certified location which will provide them with consistent, high-level quality service, every time.</p>
+                                <p>As part of Elite Support, <strong>Daimler Trucks Dandenong</strong> can assist you in maximizing vehicle uptime with rapid diagnosis, quality work, consistent communication and optimized parts availability, as well as a premium in-dealership experience.</p>
+                            </div>
                             <hr/>
                             <div class="benefits">
                                 <h2 style="font-size: 26px;font-weight: 600;margin-bottom: 20px;">Benefits</h2>

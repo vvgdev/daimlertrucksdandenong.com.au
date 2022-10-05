@@ -195,8 +195,8 @@
                                 <li>Predetermined instalments</li>
                                 <li>Available at any point in the truck's life.</li>
                             </ul>
-                            <p>To find out even more about the Service Plans that Freightliner offers contact Daimler Trucks Somerton Freightliner or download the brochure using the below link.</p>
-                            <p>To find out even more about the Service Plans that Freightliner offers contact Daimler Trucks Somerton Freightliner.</p>
+                            <p>To find out even more about the Service Plans that Freightliner offers contact Daimler Trucks Dandenong Freightliner or download the brochure using the below link.</p>
+                            <p>To find out even more about the Service Plans that Freightliner offers contact Daimler Trucks Dandenong Freightliner.</p>
                             <p>*Terms and conditions apply. Please contact your authorised Freightliner commercial dealer for a copy of the full terms.</p>
                             <h3 class="mt-5">5 YEARS/500,000KMS COMPLIMENTARY BESTBASIC SERVICE PLAN</h3>
                             <p>Need another reason to purchase the all new Cascadia? How about a 5 years/500,000kms Complimentary BestBasic Service Plan.*</p>
@@ -211,7 +211,7 @@
                     <div class="tab-pane" id="fuso_tab">
                         <div class="content capped-service para">
 						    <h3 class="bold">2022 CAPPED PRICE SERVICING</h3>
-                            <p>Fuso is now taking the guesswork out of your scheduled servicing. With all our authorised <a href="">Fuso dealerships</a>, you can now get capped, upfront, totally transparent pricing for your Fuso Truck or Bus through Capped Price Servicing.*</p>
+                            <p>Fuso is now taking the guesswork out of your scheduled servicing. With all our authorised Fuso dealerships, you can now get capped, upfront, totally transparent pricing for your Fuso Truck or Bus through Capped Price Servicing.*</p>
                             <p>That's great value for Genuine Parts and Fuso Factory trained technicians.</p>
                             <p>* Please refer to the Annual Fuso Capped Price Servicing terms and conditions.</p>
                             <hr/>

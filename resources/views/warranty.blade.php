@@ -160,7 +160,7 @@
                             </div>
                             <p>
                                 <small>
-                                    [1] Truck Warranty offers are subject to change at any time without notice. For further inclusions, exclusions, terms and conditions, please contact Daimler Trucks Somerton Mercedes-Benz.<br>
+                                    [1] Truck Warranty offers are subject to change at any time without notice. For further inclusions, exclusions, terms and conditions, please contact Dandenong Mercedes-Benz Trucks.<br>
                                     [2] Vehicles sold as of 01.01.2018.<br>
                                     [3] Excludes batteries.
                                 </small>
@@ -170,7 +170,7 @@
                     <div class="tab-pane" id="fuso_tab">
                         <div class="content para">
                             <p>
-                            Daimler Trucks Somerton Fuso trucks are built to last, but if something does go wrong, you can be confident knowing that you're covered because Fuso is the first and only Japanese truck manufacturer to offer up to 5 year cab chassis warranty as standard. That's up to 5 years across our truck and Rosa bus range for peace of mind year after year. 
+                            Dandenong Fuso trucks are built to last, but if something does go wrong, you can be confident knowing that you're covered because Fuso is the first and only Japanese truck manufacturer to offer up to 5 year cab chassis warranty as standard. That's up to 5 years across our truck and Rosa bus range for peace of mind year after year. 
                             </p>
                             <p>&nbsp;</p>
                             <div class="table-responsive">
