@@ -15,7 +15,7 @@ class FinanceController extends Controller {
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -31,7 +31,7 @@ class FinanceController extends Controller {
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
         } catch (ClientException $e) {
             $response = $e->getResponse();

@@ -20,7 +20,7 @@
     <header id="layout-header" class="header">
         <div class="container">
             <div class="mobile-nav clearfix">
-                <a id="mobile-nav-btn" type="button" class="mobile-menu"><span class="d-block">Menu</span> </a>
+                <a id="mobile-nav-btn" class="mobile-menu"><span class="d-block">Menu</span> </a>
                 <a href="{{env('IMOTOR_URL')}}" class="daimler-logo">
                     <img class="company-logo" src="{{env('IMOTOR_URL')}}/images/daimlertrucks_dandenong_logo.png"/>
                 </a>

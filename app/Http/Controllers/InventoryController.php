@@ -62,7 +62,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);       
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -236,7 +236,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             if($request->has('price_sort')) {
                 $sortField="price_sort";
@@ -312,7 +312,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);       
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -338,7 +338,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $locationDetailsArr = APIHelper::getSiteWiseLocationDepartments();
         } catch (ClientException $e) {
@@ -394,7 +394,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);       
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -420,7 +420,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $locationDetailsArr = APIHelper::getSiteWiseLocationDepartments();
         } catch (ClientException $e) {
@@ -483,7 +483,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);       
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -509,7 +509,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $locationDetailsArr = APIHelper::getSiteWiseLocationDepartments();
         } catch (ClientException $e) {
@@ -541,7 +541,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);       
         } catch (ClientException $e) {
             $response = $e->getResponse();
@@ -568,7 +568,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $url=config('apiprovider.api.get_factory_offers');
             $param['offer_type'] = "factory";
@@ -620,7 +620,7 @@ class InventoryController extends Controller
         $siteData = [];
         $url=config('apiprovider.api.get_social_media');
         $param=[];
-        $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+        $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
         $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
         $locationDetailsArr = APIHelper::getSiteWiseLocationDepartments();
         //echo "<pre>"; print_r($response);exit;
@@ -631,7 +631,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $engineData = [];
             $url=config('apiprovider.api.get_engine_transmission_data');
@@ -649,7 +649,7 @@ class InventoryController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             $transmissionsData = [];
             $url=config('apiprovider.api.get_engine_transmission_data');

@@ -44,7 +44,7 @@ class HomeController extends Controller
             $siteData = [];
             $url=config('apiprovider.api.get_social_media');
             $param=[];
-            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong');
+            $param['slug'] = env("APP_LOCATION_SLUG", 'dandenong-south');
             $siteData=APIHelper::sendGuzzleRequest($url, 'get',$param);
             //dd($siteData);
         } catch (ClientException $e) {

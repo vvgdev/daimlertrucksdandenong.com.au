@@ -1,8 +1,8 @@
 <header id="layout-header" class="header">
     <div class="container">
         <div class="mobile-nav clearfix">
-            <a id="mobile-nav-btn" type="button" class="mobile-menu"><span class="d-block">Menu</span> </a>
-            <a id="mobile-nav-btn" type="button" class="mobile-call pull-right" href="tel:{{$siteData->primary_number}}"><i class="fa fa-phone"></i> Call </a>
+            <a id="mobile-nav-btn" class="mobile-menu"><span class="d-block">Menu</span> </a>
+            <a id="mobile-nav-btn" class="mobile-call pull-right" href="tel:{{$siteData->primary_number}}"><i class="fa fa-phone"></i> Call </a>
             <a href="/" class="daimler-logo">
                 <img class="company-logo" src="/images/daimlertrucks_dandenong_logo.png"/>
             </a>
