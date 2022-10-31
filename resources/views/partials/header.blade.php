@@ -93,7 +93,7 @@
                     <div class="menu-section">
                         <ul class="company-links">
                             <li class=""><a href="/elite-support" title="Elite Support"><img class="elite-logo pull-right" src="/images/elite-logo.png" width="70"></a></li>
-                            <li class=""><a href="https://www.velocitytruckcentres.com.au/"><img class="vtc-logo pull-right" src="/images/vtc_logo.png" width="125" height="75"/></a></li><li class=""><a href="https://www.velocitytruckcentres.com.au/careers" target="_blank"><i class="fa fa-user"></i>Careers</a> </li><li class=""><a href="/about-us"><i class="fa fa-info"></i>About us</a> </li><li class=""><a href="/contact-us#contact_tab_id"><i class="fa fa-phone"></i>Contact us </a> </li>
+                            <li class=""><a href="https://www.velocitytruckcentres.com.au/"><img class="vtc-logo pull-right" src="/images/vtc_logo.png" width="125" height="75"/></a></li><li class="careers-link"><a href="https://www.velocitytruckcentres.com.au/careers" target="_blank"><i class="fa fa-user"></i>Careers</a> </li><li class=""><a href="/about-us"><i class="fa fa-info"></i>About us</a> </li><li class=""><a href="/contact-us#contact_tab_id"><i class="fa fa-phone"></i>Contact us </a> </li>
                         </ul>
                         <ul class="main-nav">
                             <li>
