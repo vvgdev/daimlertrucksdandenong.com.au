@@ -34,7 +34,7 @@
                         </ul>
                         <p>We enhance your buying experience by providing expert after-sales service. The dealership is located close to restaurants, hotels and public transport for your convenience. Our service team understand the importance of your vehicle and want you to be comfortable with the knowledge that your truck is being treated with <strong>care and professionalism.</strong> In our well-equipped workshop and service area we endeavour to ensure that your down time is minimal. &nbsp;</p>
                         <p>Our team is dedicated to providing you with the best of care at all times, so whether you are buying, selling, leasing or having your vehicle serviced come and experience the difference at Daimler Trucks Dandenong.</p>
-                        <p><strong>Velocity Truck Centres</strong> (formerly known as Adtrans National Trucks) has served the truck industry for many years. With more than 840 employees spread across 5 states, we can take care of your trucking needs.</p>
+                        <p><strong>Velocity Truck Centres</strong> has served the truck industry for many years. With more than 840 employees spread across 5 states, we can take care of your trucking needs.</p>
                         <p>Our experienced workforce including many staff who have over 20 years of experience and are a testament to our ongoing commitment and passion for what we do. The employees are the heart and soul of our brand and we love sharing our knowledge and skills with our customers.</p>
                         <p>We are a division of the global brand Velocity Vehicle Group.</p>
                         <p><strong>WHY CHOOSE VELOCITY TRUCK CENTRES?</strong></p>
