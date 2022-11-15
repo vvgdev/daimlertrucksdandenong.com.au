@@ -1,0 +1,8 @@
+#Production
+User-agent: *
+Disallow:
+Sitemap: https://www.daimlertrucksdandenong.com.au/sitemap.xml
+
+#Staging
+User-agent: *
+Disallow: /
