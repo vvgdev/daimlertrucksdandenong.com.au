@@ -23,7 +23,7 @@
                         <div class="swiper-slide swiper-slide-two">
                             <div class="spacer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAMMAQMAAACIUSg1AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAM1JREFUeF7twDEBAAAAwiD7p7bGDlgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAB3moAASHInzYAAAAASUVORK5CYII=" class="rrwp-img" alt="" aria-hidden="true">
                             </div>
-                            <div class="dektop-slider-image bg responsive-bgimg" style="background: url('{{ $slider->desktop_img }}') no-repeat scroll 0 0/100% 100% ;">
+                            <div class="dektop-slider-image bg responsive-bgimg" style="background-image: url('{{ $slider->desktop_img }}');">
                                 <div class="swiper-image" id= "">
                                     <div class="swiper-image-inner swiper-image-two {{(($slider->text_position == 'left') ? 'vtc-text-left' : ($slider->text_position == 'right')) ? 'vtc-text-right' : (($slider->text_position == 'top' ? 'vtc-text-top' : ''))}}" onclick="navigateToURL('{{$slider->site_learn_more_url}}')">
                                         <div class="container">
@@ -93,6 +93,11 @@
             </a>
         </div>
         <div class="col col3">
+            <a href="https://www.velocitytruckcentres.com.au/careers" target="_blank">
+                <h2>Careers <i class="fa fa-arrow-right"></i></h2>
+            </a>
+        </div>
+        <div class="col col4">
             <a href="/specials">
                 <h2>Latest<br/> Offers <i class="fa fa-arrow-right"></i></h2>
             </a>
