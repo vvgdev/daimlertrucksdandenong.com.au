@@ -1,0 +1,20 @@
+name: remote ssh command
+on:
+  push:
+    branches: [ master ]
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using ssh key
+      uses: appleboy/ssh-action@v0.1.6
+      with:
+        host: ${{ secrets.CICD_HOST }}
+        username: ${{ secrets.CICD_USERNAME }}
+        key: ${{ secrets.CICD_KEY }}
+        port: ${{ secrets.CICD_PORT }}
+        script: |
+          whoami
+          cd /data/sites/dtdn.vtc.systems && git pull https://${{ secrets.CICD_TOKEN }}:${{ secrets.CICD_TOKEN }}@github.com/vvgdev/daimlertrucksdandenong.com.au.git
