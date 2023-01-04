@@ -1,4 +1,4 @@
-name: remote ssh command
+name: Daimler Trucks
 on:
   push:
     branches:
