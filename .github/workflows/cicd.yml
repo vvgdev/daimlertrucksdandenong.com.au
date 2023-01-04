@@ -1,20 +1,34 @@
 name: remote ssh command
 on:
   push:
-    branches: [ master ]
+    branches:
+      - staging
+      - master
 jobs:
 
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: executing remote ssh commands using ssh key
+    - name: master
       uses: appleboy/ssh-action@v0.1.6
+      if: github.ref == 'refs/heads/master'
       with:
-        host: ${{ secrets.CICD_HOST }}
-        username: ${{ secrets.CICD_USERNAME }}
+        host: ${{ secrets.PROD_CICD_HOST }}
+        username: ${{ secrets.PROD_CICD_USERNAME }}
         key: ${{ secrets.CICD_KEY }}
         port: ${{ secrets.CICD_PORT }}
         script: |
           whoami
-          cd /data/sites/dtdn.vtc.systems && git pull https://${{ secrets.CICD_TOKEN }}:${{ secrets.CICD_TOKEN }}@github.com/vvgdev/daimlertrucksdandenong.com.au.git
+          cd ${{ secrets.PROD_PATH }} && git pull https://${{ secrets.CICD_TOKEN }}:${{ secrets.CICD_TOKEN }}@${{ secrets.GIT_URL }} master
+    - name: staging
+      uses: appleboy/ssh-action@v0.1.6
+      if: github.ref == 'refs/heads/staging'
+      with:
+        host: ${{ secrets.STAG_CICD_HOST }}
+        username: ${{ secrets.STAG_CICD_USERNAME }}
+        key: ${{ secrets.CICD_KEY }}
+        port: ${{ secrets.CICD_PORT }}
+        script: |
+          whoami
+          cd ${{ secrets.STAG_PATH }} && git pull https://${{ secrets.CICD_TOKEN }}:${{ secrets.CICD_TOKEN }}@${{ secrets.GIT_URL }} staging
